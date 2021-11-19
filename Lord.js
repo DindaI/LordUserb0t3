@@ -443,7 +443,9 @@ var waktoo = date.getHours();
 					limit: 'Limit kamu habis lord , Silahkan beli dengan #buylimit <nominal> atau minta gift dari user lain',
 					sewabot: ` 「 *SEWA BOT* 」 \n\nBerikut list sewa bot kami
 
-•> 25k / BULAN (PREMIUM)
+•> 15k /perminggu (PREMIUM)
+  25k / BULAN (PREMIUM)
+   30K /PERMANENT (PREMIUM)
 Isi sendiri
 
 Minat? Pm wa.me/${owner_number}`,
@@ -453,10 +455,10 @@ Minat? Pm wa.me/${owner_number}`,
 					succes: '```[ ✓ ]``` Sukses Lord',
 					only: {
 						personal: 'Only Private Chat Lord',
-						admin: 'Khusus Admin Group Lord',
-						group: 'Khusus Dalam Grup Lord',
-						 prem: 'Khusus User Premium Lord',
-						owner: 'Khusus Owner Bot Lord',
+						admin: '❗Khusus Admin Group Lord',
+						group: '❗Khusus Dalam Grup Lord',
+						 prem: '❗Khusus User Premium Lord',
+						owner: '❗Khusus Owner Bot Lord',
 						 }
 					} 
 	    const ftroli ={key: {fromMe: false,"participant":"0@s.whatsapp.net",   "remoteJid": "6289523258649-1604595598@g.us"  }, "message": {orderMessage: {itemCount: 2021,status: 200, thumbnail: thumbnail, surface: 200, message: `「 𝐑𝐔𝐍𝐓𝐈𝐌𝐄 」\n${runtime2}`, orderTitle: 'zeeoneofc', sellerJid: '0@s.whatsapp.net'}}, sendEphemeral: true}
